@@ -3,8 +3,12 @@
 -------------------------------------------------------
 
 ##***What is Clock Algorithm ???***
-**Clock Algorithm** 是 **LRU algorithm** 的一種近似演算法, **LRU algorithm**  雖然有許多優點
-但它在實做上卻是困難重重,利用 **Clock Algorithm** 來近似 **LRU algorithm** 增加實做可行性,
+**Clock Algorithm**  是 **LRU algorithm** (Least recently used page-replacement) 的一種近似演算法, **LRU algorithm** (把過去到現在最久時間未使用的那頁替換掉) 雖然有許多優點
+但它在實做上卻是困難重重(必須依靠特殊的硬體支援，很少系統能夠完整地實作),利用 **Clock Algorithm** 來近似 **LRU algorithm** 增加實做可行性,
 也增加演算法速度.
+
+
 -------------------------------------------------------
-##***How to use***
+##***How to use Clock Algorithm ???***
+**Clock Algorithm** 是利用一個環狀的qu
+
