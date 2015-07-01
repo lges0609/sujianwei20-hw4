@@ -19,3 +19,9 @@
 > + 如果某個page被時常使用,那它的reference就會時常保持在 *1*
 
 
+----------------------------------------------------------------------------------------------------------
+##***Reference ***
+(https://www.usenix.org/legacy/event/fast05/tech/full_papers/gill/gill_html/node12.html)
+()
+()
+()
