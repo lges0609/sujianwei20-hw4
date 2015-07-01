@@ -13,7 +13,8 @@
 ##***How to use Clock Algorithm ???***
 **Clock Algorithm** 是利用一個環狀的queue 利用在每個page裡加入一個bit(0或1)來當成reference
 當訪問page table時pointer會去檢查此reference.
-如果此reference的值是 *0* 就替換此頁面;如果此reference的值是 *1* 那麼就給予該頁面第二次機會,繼續檢查下一個page並把該reference的值改成0
++如果此reference的值是 *0* 就替換此頁面
++如果此reference的值是 *1* 那麼就給予該頁面第二次機會,繼續檢查下一個page並把該reference的值改成0
 
 如果某個page被時常使用,那它的reference就會時常保持在 *1*
 
