@@ -21,7 +21,7 @@
 
 ----------------------------------------------------------------------------------------------------------
 ##***Reference ***
-(https://www.usenix.org/legacy/event/fast05/tech/full_papers/gill/gill_html/node12.html)
-()
-()
-()
+https://www.usenix.org/legacy/event/fast05/tech/full_papers/gill/gill_html/node12.html
+http://pages.cs.wisc.edu/~bart/537/lecturenotes/s20.html
+http://courses.cs.washington.edu/courses/csep544/99au/minirel/bufmgr.html
+http://wenku.baidu.com/view/e167916748d7c1c708a14501.html
